@@ -1,0 +1,16 @@
+{
+  "name": "Spritesheet",
+  "license": "MIT",
+  "tags": [
+    "spritesheet",
+    "openfl"
+  ],
+  "description": "Upgraded version of original Spritesheet library (https://github.com/skylarkstudio/spritesheet).",
+  "releasenote": "Added haxelib json",
+  "version": "1.0.0",
+  "classPath": "src",
+  "url": "https://github.com/m0rkeulv/spritesheet",
+  "dependencies": {
+    "openfl": ""
+  }
+}
